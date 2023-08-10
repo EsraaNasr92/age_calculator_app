@@ -49,8 +49,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://esraanasr92.github.io/age_calculator_app/](https://esraanasr92.github.io/age_calculator_app/)
+- Live Site URL: [https://esraanasr92.github.io/age_calculator_app/]([https://esraanasr92.github.io/age_calculator_app/](README-template.md))
 
 ## My process
 
@@ -99,16 +99,16 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [https://dev.to/code_mystery/javascript-age-calculator-calculate-age-from-date-of-birth-o9b](https://dev.to/code_mystery/javascript-age-calculator-calculate-age-from-date-of-birth-o9b) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [https://www.youtube.com/watch?v=zEU_NtZK9-c&t=24s](https://www.youtube.com/watch?v=zEU_NtZK9-c&t=24s) - This is an amazing video which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://github.com/EsraaNasr92/](https://github.com/EsraaNasr92/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/EsraaNasr92)
+- Twitter - [@Esraa_nasr92](https://www.twitter.com/Esraa_nasr92)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
